@@ -1,3 +1,3 @@
 # version-control-exercises
 
-aaaaaaaaaaaaaaaa
+Rik Verlaan made some changes to this document!
